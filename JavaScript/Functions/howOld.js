@@ -1,4 +1,4 @@
-const howOld = (age, year) => {
+const definedAge = (age, year) => {
 
     let dateToday = new Date();
     let thisYear = dateToday.getFullYear();
